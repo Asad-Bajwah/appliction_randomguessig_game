@@ -23,7 +23,7 @@ function App() {
 
     document.write("'"+name +"' You Win Game After '"+ counter + "' attemted")
   return (
-    <h1>Hi!Asad Bajwah Is Here!</h1>
+    <h1>Hi!Asad Is Here!</h1>
   );
 }
 
